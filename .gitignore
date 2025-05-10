@@ -1,0 +1,9 @@
+# Ignore Google service account keys
+*.json
+
+# Or specifically name your credentials file
+covidoff-ecef33b9fe0b.json
+
+# Optional: Ignore other secrets and environment files
+.env
+*.env
